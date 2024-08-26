@@ -70,9 +70,9 @@ La API REST está disponible en `http://localhost:8080`. Acá hay algunos ejempl
 Para probar la API, utilicé Postman. Acá están algunas capturas de pantalla de las pruebas realizadas:
 
 ### Ejemplo de prueba GET
-![GET Request Example](/src/assets/getexample.jpg)
+![GET Request Example](./src/assets/getexample.jpg)
 
 
 ### Ejemplo de prueba POST
-![POST Request Example](/src/assets/postexample.jpg)
+![POST Request Example](./src/assets/postexample.jpg)
 
